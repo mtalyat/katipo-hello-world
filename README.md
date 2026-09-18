@@ -6,7 +6,7 @@ Please refer to the README for katipo on how the Client, Server (Host) and Track
 
 ## Guide
 
-Please refer to the README for katipo on how the Client, Server (Host) and Tracker work with one another.
+Please refer to the [README for katipo](https://github.com/mjdave/katipo/blob/main/README.md) on how the Client, Server (Host) and Tracker work with one another.
 
 Prerequisites: Download and install the latest version of the Koru Browser from [https://github.com/mjdave/katipoBrowser/releases](https://github.com/mjdave/katipoBrowser/releases).
 
