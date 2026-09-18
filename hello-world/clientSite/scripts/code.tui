@@ -1,0 +1,14 @@
+# Called when the site is loaded
+# wasNewDownload: true if an update was pulled from the site, false if running based on cached data
+# publicData: TODO: add description...
+katipo.onSiteLoad = function(wasNewDownload, publicData)
+{
+    
+}
+
+# Called every rendered frame. 
+# dt: The time step
+katipo.update = function(dt)
+{
+
+}

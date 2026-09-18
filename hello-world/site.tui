@@ -1,0 +1,5 @@
+nameKey = "hello-world" # used to uniquely identify this site
+title = "Hello World!" # displayed name
+keywords = { "hello", "world", "example" } # used for search
+description = "Hello world example" # used for search and more info
+author = "unknown" # used for search and more info

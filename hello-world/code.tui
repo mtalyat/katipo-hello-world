@@ -1,0 +1,18 @@
+siteInfo = require(katipo.sitePath + "/site.tui")
+host = katipo.host
+
+# Called just after katipo is initialized.
+# The database is now ready to use.
+init = function()
+{
+    print("hello-world init")
+}
+
+# Called when clients query this site
+# url: The URL being requested by the client
+# clientData: Data sent by the client with the request
+get = function(url, clientData)
+{
+    print("hello-world get")
+    return host.get(url, clientData)
+}

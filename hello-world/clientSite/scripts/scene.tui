@@ -1,0 +1,20 @@
+mainView = {
+    type = "color"
+    color = vec4(0.0,0.0,0.5,0.1)
+    onParentSizeChanged = function(parentSize)
+    {
+        return parentSize
+    }
+    subviews = {
+        {
+            id = "hello-world-text"
+            type = "text"
+            text = "Hello world!"
+            font = "roboto"
+            color = vec4(1.0,0.4,1.0,1.0)
+            shader = "drawQuadTexturedHueShift"
+            fontSize = 40
+            hidden = false
+        }
+    }
+}
