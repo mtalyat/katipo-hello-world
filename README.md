@@ -29,6 +29,10 @@ Steps:
 9. The hello-world project will load in the browser. You are good to go!
 ![Koru Browser with Hello world! active](images/browser.png)
 
+## Breakdown
+
+The following is an explanation of each significant part of the hello-world project.
+
 ### katipo
 
 This is the katipo repository, which allows us to access the most recent versions of the client, host and tracker.
