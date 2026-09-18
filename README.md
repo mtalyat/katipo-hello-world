@@ -6,7 +6,7 @@ Please refer to the README for katipo on how the Client, Server (Host) and Track
 
 ## Guide
 
-Please refer to the README for katipo on how the Client, Server (Host) and Tracker work with one another.
+Please refer to the [README for katipo](https://github.com/mjdave/katipo/blob/main/README.md) on how the Client, Server (Host) and Tracker work with one another.
 
 Prerequisites: Download and install the latest version of the Koru Browser from [https://github.com/mjdave/katipoBrowser/releases](https://github.com/mjdave/katipoBrowser/releases).
 
@@ -28,6 +28,10 @@ Steps:
 ![Koru Browser with the hello-world url](images/browser-url.png)
 9. The hello-world project will load in the browser. You are good to go!
 ![Koru Browser with Hello world! active](images/browser.png)
+
+## Breakdown
+
+The following is an explanation of each significant part of the hello-world project.
 
 ### katipo
 
