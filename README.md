@@ -13,10 +13,11 @@ Prerequisites: Download and install the latest version of the Koru Browser from 
 Steps:
 
 1. Clone this repository
-2. Build katipo/apps/katipoClient
-3. Build katipo/apps/katipoHost
-4. Build katipo/apps/katipoTracker
-5. Run the katipoTracker. This will run locally and allow the client (Kuro Browser) to talk to the host (hello-world).
+2. Update the submodules by running this in the terminal in the cloned repository's directory: `git submodule update --init --recursive`
+3. Build katipo/apps/katipoClient
+4. Build katipo/apps/katipoHost
+5. Build katipo/apps/katipoTracker
+6. Run the katipoTracker. This will run locally and allow the client (Kuro Browser) to talk to the host (hello-world).
 ![A screenshot of the tracker running.](images/tracker.png)
 6. Run the hello-world application. This can be accomplished by doing one of the following:
   * Run run_hello-world.bat (Windows)
