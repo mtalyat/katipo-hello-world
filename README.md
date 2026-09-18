@@ -19,15 +19,15 @@ Steps:
 5. Build katipo/apps/katipoTracker
 6. Run the katipoTracker. This will run locally and allow the client (Kuro Browser) to talk to the host (hello-world).
 ![A screenshot of the tracker running.](images/tracker.png)
-6. Run the hello-world application. This can be accomplished by doing one of the following:
+7. Run the hello-world application. This can be accomplished by doing one of the following:
   * Run run_hello-world.bat (Windows)
   * Run run_hello-world.sh (Linux or Mac)
   * Run the katipoHost executable with "--site hello-world" as arguments
-7. Run the Koru Browser
+8. Run the Koru Browser
 ![Koru Browser](images/browser-open.png)
-8. At the bottom of the browser, click the URL text and enter "hello-world"
+9. At the bottom of the browser, click the URL text and enter "hello-world"
 ![Koru Browser with the hello-world url](images/browser-url.png)
-9. The hello-world project will load in the browser. You are good to go!
+10. The hello-world project will load in the browser. You are good to go!
 ![Koru Browser with Hello world! active](images/browser.png)
 
 ## Breakdown
